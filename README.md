@@ -1,11 +1,11 @@
 # Technical Data Processing Pipeline (Azure)
 <ESPAÑOL>
 
-## 📌 Descripción General
+## Descripción General
 
-Este repositorio presenta un **proyecto demostrativo de procesamiento técnico de datos**, desarrollado utilizando servicios de **Microsoft Azure**, inspirado en una solución cloud implementada durante mi práctica profesional.
+Este repositorio presenta un proyecto demostrativo de procesamiento técnico de datos, desarrollado utilizando servicios de Microsoft Azure, inspirado en una solución cloud implementada durante mi práctica profesional.
 
-El objetivo del proyecto es mostrar el diseño y ejecución de un **flujo completo de ingestión, validación, transformación y análisis de datos**, siguiendo principios utilizados en entornos productivos de procesamiento de datos de alta complejidad.
+El objetivo del proyecto es mostrar el diseño y ejecución de un flujo completo de ingesta, validación, transformación y análisis de datos, siguiendo principios utilizados en entornos productivos de procesamiento de datos de alta complejidad.
 
 El proyecto está orientado a demostrar competencias en:
 - Procesamiento estructurado de datos
@@ -15,9 +15,15 @@ El proyecto está orientado a demostrar competencias en:
 
 ---
 
-## 🏗️ Arquitectura General
+## Arquitectura General
 
 El flujo del proyecto sigue una arquitectura modular inspirada en entornos cloud reales.
+- Proveedor Cloud: Azure
+- Storage: Blob Storage
+- Lenguaje: Python 3.11.9
+- Formato de datos: CSV
+- ETL (Extracción - Transformación - Carga)
+
 
 <ENGLISH>
 
