@@ -1,0 +1,11 @@
+﻿project_id;client_type;project_category;estimated_hh;team_size;technology_stack;data_volume_gb;data_complexity;risk_level;deadline_days;quality_score
+P001;Public;Data Processing;120;3;Python-Azure;15;High;Medium;60;0.92
+P002;Private;Cloud Migration;300;5;Azure-SQL;40;High;High;120;0.85
+P003;Public;Automation;80;2;Python;5;Medium;Low;45;0.96
+P004;Private;Analytics Platform;200;4;Python-PowerBI;25;High;Medium;90;0.88
+P005;Public;ETL Pipeline;150;3;Python-Azure;18;Medium;Low;75;0.94
+P006;Private;Data Integration;220;4;Python-API;30;High;High;110;0.81
+P007;Public;Reporting System;90;2;PowerBI-SQL;8;Low;Low;50;0.97
+P008;Private;Automation;60;1;Python;3;Low;Low;30;0.99
+P009;Public;Cloud Optimization;180;3;Azure;20;Medium;Medium;85;0.90
+P010;Private;Data Pipeline;260;5;Python-Azure;35;High;High;140;0.83
